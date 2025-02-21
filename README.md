@@ -11,6 +11,7 @@
 
 <h2>📊 Sample Illustration</h2>
 <p>Once the resume is analyzed, the system generates a pie chart representing the distribution of detected competencies.</p>
+<img src="images/competency_analysis_pie_chart.png" width=50% />
 <p>In this example, competencies such as Organizing & Executing, Supporting, and Displaying Job-Related Skills are highlighted based on the resume content.</p>
 
 <h2>🔧 Technologies Used</h2>
