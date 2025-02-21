@@ -43,4 +43,4 @@ pip install pymupdf matplotlib gpt4all
 ```
 
 <h4>Step 3: Download the GPT4All Model</h4>
-Download Mistral-7B-Instruct (Q4_0.gguf) from <href src="https://www.nomic.ai/gpt4all", target="_blank">GPT4All Model Page</href> and place it in the project folder.
+Download Mistral-7B-Instruct (Q4_0.gguf) from <a href="https://www.nomic.ai/gpt4all", target="_blank">GPT4All Model Page</a> and place it in the project folder.
