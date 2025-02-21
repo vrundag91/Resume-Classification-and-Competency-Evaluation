@@ -36,3 +36,11 @@ git clone https://github.com/your-username/resume-analysis-competency.git
 cd resume-analysis-competency
 ```
 
+<h4>Step 2: Install Required Packages</h4>
+
+```
+pip install pymupdf matplotlib gpt4all
+```
+
+<h4>Step 3: Download the GPT4All Model</h4>
+Download Mistral-7B-Instruct (Q4_0.gguf) from <href src="https://www.nomic.ai/gpt4all", target="_blank">GPT4All Model Page</href> and place it in the project folder.
